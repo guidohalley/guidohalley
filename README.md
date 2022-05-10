@@ -7,7 +7,10 @@
 <p><em>systems analysis student at <a href="https://incade.edu.ar/2020/#"><img src="https://incade.com.ar/2020/wp-content/uploads/2020/10/incade-logo-web-.png" width="100"></em></p>
 
 [![Twitter: GuidoHalley](https://img.shields.io/twitter/follow/GuidoHalley?style=social)](https://twitter.com/GuidoHalley)[![Linkedin: guidohalley](https://img.shields.io/badge/-guidohalley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guidohalley/)](https://www.linkedin.com/in/guidohalley/)[![GitHub guidohalley](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/guidohalley)
-<h3><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> | <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" width="50"> </h3>     
+<p><em><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> | <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" width="50"></em></p>
+
+<em><b>Code Info⚡</b> 
+
 ```javascript
 const thai = {
   code: [JAVA, Python, HTML, CSS, PHP, Python, Java],
@@ -16,6 +19,6 @@ const thai = {
   }
 ```
 
-<img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="150"> <em><b>A Great Dreamer ⚡</b> 
+<img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif" width="150"> <em><b>A Great Dreamer⚡</b> 
 
 ---
