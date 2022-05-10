@@ -1,4 +1,8 @@
-<h2> 👾 Hi, I'm Guido Halley <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> 👾 Hi, I'm Guido Halley</h2>
+
+
+
+<p><em><img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200"></p></em>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 <p><em>systems analysis student at <a href="https://incade.edu.ar/2020/#"><img src="https://incade.com.ar/2020/wp-content/uploads/2020/10/incade-logo-web-.png" width="100"></em></p>
 
