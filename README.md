@@ -1,6 +1,6 @@
 <h1 align="center"> 👾 Hi, I'm Guido Halley 😁</h2>
-<h3 align="center"><p><em>🚀 Web FullStack Developer;</p></em>
-
+<h4 align="center"><p><em> ## Web FullStack Developer ☕</p></em>
+<hr>
 <br>
 <h1 align="center">
 My Tech Stack
