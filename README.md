@@ -1,5 +1,5 @@
-<h2> 👾 Hi, I'm Guido Halley 😁</h2>
-<p><em>🚀 Programador Web Full Stack;</p></em>
+<h1 align="center"> 👾 Hi, I'm Guido Halley 😁</h2>
+<h3 align="center"><p><em>🚀 Web FullStack Developer;</p></em>
 
 <br>
 <h1 align="center">
