@@ -10,7 +10,7 @@ My Tech Stack
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>SpringBoot</strong></span><br><br>
-        <img height="150px" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-e1535836912198.png">
+        <img height="100px" src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg">
       </td>
       <td width="25%" align="center">
 	      <span><strong>PHP</strong></span><br><br>
