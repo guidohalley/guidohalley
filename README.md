@@ -9,38 +9,38 @@ My Tech Stack
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-	      <span><strong>SpringBoot</strong></span><br><br><br>
-        <img height="100px" src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png">
+	      <span><strong>SpringBoot</strong></span><br><br>
+        <img height="150px" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-e1535836912198.png">
       </td>
       <td width="25%" align="center">
-	      <span><strong>PHP</strong></span><br><br><br>
-        <img height="64px" src="http://pngimg.com/uploads/php/php_PNG34.png">
+	      <span><strong>PHP</strong></span><br><br>
+        <img height="100px" src="http://pngimg.com/uploads/php/php_PNG34.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
+        <span><strong>Java</strong></span><br><br>
         <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Laravel</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+        <span><strong>Laravel</strong></span><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
       </td>
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
-	      <span><strong>IntelliJ</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
+	      <span><strong>IntelliJ</strong></span><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span><strong>Html 5</strong></span><br><br>
+        <img height="100px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span><strong>Git</strong></span><br><br>
+        <img height="100px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><strong>Vs Code</strong></span><br><br>
+        <img height="100px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
 
