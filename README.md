@@ -10,7 +10,7 @@ My Tech Stack
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>SpringBoot</strong></span><br><br>
-        <img height="100px" src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg">
+        <img height="100px" src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s400/spring-boot-logo.png">
       </td>
       <td width="25%" align="center">
 	      <span><strong>PHP</strong></span><br><br>
